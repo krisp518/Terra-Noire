@@ -1,2 +1,24 @@
 9/10/22 3pm - 4pm
 - Timeline built & project board built
+
+9/12/22 - 9/18/22
+- Sprite made (1hr)
+- Preset Room made (2hr) 
+- Guns made (2hr) 
+- Character Movement (30 min)
+
+9/19/22 - 9/25/22
+- Dodge roll (2hr) 
+- Character + Gun Interaction (3hr)
+
+9/26/22 - 10/2/22
+- Sword Enemy (2hr)
+- Gun Enemy (3hr)
+- Project Deleted 
+
+10/3/22 - 10/9/22
+- Recreation of Project (8hr) 
+
+10/10/22 - 10/16/22
+- 
+
